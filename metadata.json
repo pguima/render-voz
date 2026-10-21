@@ -1,0 +1,6 @@
+{
+  "name": "Gemini TTS Studio - Sintetizador de Voz",
+  "description": "Sintetizador de voz inteligente com Gemini 3.8 Flash TTS, sotaques brasileiros regionais, tags de tom emocional e controle de velocidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
